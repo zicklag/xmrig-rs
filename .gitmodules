@@ -1,0 +1,4 @@
+[submodule "xmrig-sys/xmrig"]
+	path = xmrig-sys/xmrig
+	url = https://github.com/zicklag/xmrig.git
+	branch = xmrig-rs
