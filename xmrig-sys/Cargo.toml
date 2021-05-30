@@ -2,7 +2,13 @@
 name = "xmrig-sys"
 version = "0.1.0"
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+links = "xmrig"
 
 [dependencies]
+libargon2-sys = "0.2.0"
+openssl-sys = "0.9.63"
+libuv-sys2 = "1.41.0"
+hwloc = "0.5.0"
+
+[build-dependencies]
+cmake = "0.1.45"

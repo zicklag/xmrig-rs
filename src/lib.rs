@@ -1,7 +1,5 @@
-#[cfg(test)]
-mod tests {
-    #[test]
-    fn it_works() {
-        assert_eq!(2 + 2, 4);
+pub fn start() {
+    unsafe {
+        xmrig_sys::xmrig_start(0, std::ptr::null_mut());
     }
 }
