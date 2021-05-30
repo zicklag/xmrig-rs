@@ -2,7 +2,6 @@
 
 [![Crates.io](https://img.shields.io/crates/v/xmrig.svg)](https://crates.io/crates/xmrig)
 [![Docs.rs](https://docs.rs/xmrig/badge.svg)](https://docs.rs/xmrig)
-[![Build Status](https://github.com/katharostech/bevy_retro/actions/workflows/rust.yaml/badge.svg)](https://github.com/katharostech/bevy_retro/actions/workflows/rust.yaml)
 [![lines of code](https://tokei.rs/b1/github/katharostech/xmrig?category=code)](https://github.com/katharostech/xmrig)
 [![Katharos License](https://img.shields.io/badge/License-Katharos-blue)](https://github.com/katharostech/katharos-license)
 
